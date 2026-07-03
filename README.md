@@ -6,7 +6,7 @@
 
 
 
-This project applies the K-Means Clustering algorithm to segment customers based on their \*\*Annual Income\*\* and \*\*Spending Score\*\*. The goal is to identify customer groups that can help businesses understand purchasing behavior and make better marketing decisions.
+This project applies the K-Means Clustering algorithm to segment customers based on their Annual Income and Spending Score. The goal is to identify customer groups that can help businesses understand purchasing behavior and make better marketing decisions.
 
 
 
