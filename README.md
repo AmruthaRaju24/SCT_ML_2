@@ -140,7 +140,7 @@ The optimal number of clusters selected was **5**.
 
 
 
-\-> elbow\_method.png
+\![Elbow Method](elbow_method.png)
 
 
 
@@ -152,7 +152,7 @@ The K-Means algorithm divided customers into five distinct groups.
 
 
 
-\-> customer\_segmentation.png
+\![Customer Segmentation](customer_segmentation.png)
 
 
 
